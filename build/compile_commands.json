@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/ai_system.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/ai_system.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/ai_system.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/common.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/common.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/common.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/components.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/components.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/components.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/main.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/main.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/main.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/physics_system.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/physics_system.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/physics_system.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/render_system.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/render_system.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/render_system.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/render_system_init.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/render_system_init.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/render_system_init.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/tiny_ecs.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/tiny_ecs.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/tiny_ecs.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/tiny_ecs_registry.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/tiny_ecs_registry.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/tiny_ecs_registry.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/world_init.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/world_init.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/world_init.cpp"
+},
+{
+  "directory": "/Users/ethan/Desktop/CPSC427/a1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/ethan/Desktop/CPSC427/a1/src -I/Users/ethan/Desktop/CPSC427/a1/ext/stb_image -I/Users/ethan/Desktop/CPSC427/a1/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/usr/local/Cellar/glfw/3.3.4/include -I/usr/local/include/SDL2 -isystem /Users/ethan/Desktop/CPSC427/a1/ext/glm -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wall -std=gnu++14 -o CMakeFiles/salmon.dir/src/world_system.cpp.o -c /Users/ethan/Desktop/CPSC427/a1/src/world_system.cpp",
+  "file": "/Users/ethan/Desktop/CPSC427/a1/src/world_system.cpp"
+}
+]
